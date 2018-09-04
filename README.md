@@ -1,2 +1,2 @@
-# retaildata-serviceregistry
-Service registry implementation for retail data project
+# retaildata-scan
+Service registry server implementation for retaildata project
